@@ -1,0 +1,22 @@
+#chicken-tile, #beef-tile, #sushi-tile{
+    /* border: 1px solid #000; */
+    margin-bottom: 15px;
+    background-color: #e3e2de;
+}
+
+.navbar-nav{
+    margin: none;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border: none;
+}
+
+li{
+    border-top: 1px solid #e7e7e7;
+} 
+
+.font-weight-bold{
+    font-weight: bold;
+}
